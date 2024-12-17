@@ -1,0 +1,234 @@
+.box-1{
+    padding-top: 100px;
+    
+    color: white;
+}
+.box{
+    background-color: #4C4C4C;
+    height: 500px;
+}
+.butt-1{
+    width: 150px;
+    height: 60px;
+    color: black;
+    border-radius: 20px;
+}
+.butt-1:hover{
+    background-color: black;
+    color: white;
+}
+.box-2{
+    height: 450px;
+    width: 300px;
+    background-color: white;
+    border-radius: 20px;
+}
+.butt-2{
+    width: 150px;
+    height: 60px;
+    color: black;
+    border-width: 2px;
+    border-bottom: black;
+    border-radius: 20px;
+
+}
+.butt-3{
+    width: 150px;
+    height: 60px;
+    color: white;
+    border-width: 2px;
+    border-bottom: black;
+    border-radius: 20px;
+    background-color: black;
+}
+.butt-3:hover{
+    background-color: white;
+    color: black;
+}
+.box-6{
+    width: 300px;
+    height: 400px;
+    background-color: white;
+    border-radius: 20px;
+}
+.box-8{
+    width: 10px;
+    height: 12px;
+    background-color: red;
+}
+
+
+.imgg1{
+    width: 100%;
+        height: auto;
+        aspect-ratio: 1 / 1;
+        object-fit: cover;
+        object-position: center center;
+        border-radius: 25px;
+}
+.heading-1{
+    font-family: Manrope;
+    font-weight: 600;
+    color:white;
+    margin-top: 90px;
+    text-transform: capitalize;
+}
+.cad-bod{
+    background-color: #272727;
+    border-radius: 30px;
+    border: none;
+}
+.p-tag1{
+    font-size: 45px;
+        margin-bottom: 16px;
+        font-family: Manrope;
+    font-weight: 600;
+    margin-top: 0;
+    line-height: 1.4em;
+    color: white;
+}
+.input-tag{
+    padding-top: 10px;
+    padding-bottom:10px;
+    font-family: Manrope;
+    font-weight: 400;
+    color: white;
+    background-color: #fff0;
+    border: 1px solid #fff;
+    border-radius: 20px;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 90px;
+}
+.btn-1{
+    border: 1px solid #fff !important;
+    background-color:white !important;
+    color: black !important;
+    padding-top: 10px !important;
+    padding-right: 32px !important;
+    padding-bottom: 10px !important;
+    font-family: Manrope !important;
+    font-weight: 400 !important;
+    font-size: 16px !important;
+    text-align: center;
+    border-radius: 15px;
+}
+.btn-1:hover{
+    background-color:#272727 ;
+}
+.bgg-2{
+    background-color: #F4F4F4;
+    padding-bottom: 150px;
+}
+.heading-2{
+    font-size: 40px;
+    padding-bottom: 30px;
+    color: #272727;
+    text-align: center;
+    padding-top: 75px;
+    font-family: Manrope;
+    font-weight: 600;
+    margin-top: 0;
+    line-height: 1.4em;
+}
+.p-tag2{
+    font-family: Manrope;
+}
+.card{
+    padding: 10px;
+}
+.heading-3{
+    font-size: 50px;
+     margin-bottom: 12px;
+     color: #272727;
+     font-family: Manrope;
+    font-weight: 600;
+    margin-top: 0;
+    line-height: 1.4em;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 10px;
+}
+.p-tag3{
+    font-family: manrope;
+    font-size: 25px;
+    text-align: center;
+    font-weight: 700;
+    padding-bottom: 30px;
+}
+.bgg-3{
+    background-color: #272727;
+    border-radius: 20px;
+}
+.heading-4{
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 1.4em;
+    margin-top: 0;
+    font-family: Manrope;
+    text-transform: capitalize;
+    color: #fff;
+    margin-bottom: 12px;
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 10px;
+}
+.p-tag4{
+    color: #F4F4F4;
+    font-family: Manrope;
+    text-align: center;
+}
+.p-tag5{
+    text-align: center;
+    font-weight: 700;
+}
+.p-tag6{
+    color: #fff;
+    margin-top: 0;
+    font-family: Manrope;
+    font-weight: 600;
+    line-height: 1.4em;
+    font-size: 30px;
+}
+.p-tag7{
+    color: #fff;
+    font-family: Manrope;
+    font-weight: 600;
+    font-size: 50px;
+}
+.p-tag8{
+    color: #fff;
+    font-family: Manrope;
+}
+.btt2{
+    margin-top: 180px;
+    padding: 16px 32px;
+    border: 1px solid #fff;
+    border-radius: 20px;
+    background-color: #919da900;
+    color: white;
+}
+.heading-5{
+    color: #272727;
+    margin-top: 0;
+    font-family: Manrope;
+    font-weight: 600;
+    font-size: 58px;
+    line-height: 1.4em;
+    text-transform: capitalize;
+    font-size: 32px;
+    margin-bottom: 14px;
+    text-align: center;
+    margin-top: 80px;
+}
+.p-tag9{
+    margin-bottom: 8px;
+    font-weight: 600;
+    line-height: 1.4em;
+    color: #272727;
+    margin-top: 0;
+    font-family: Manrope;
+}
+.p-tag10{
+    font-family: Manrope;
+}
